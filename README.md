@@ -1,8 +1,8 @@
-== Apache2 SSL/TLS configuration example.
-= Povered by vagrant
+# Apache2 SSL/TLS configuration example.  
+### Povered by Vagrant&VirtualBox
 
 
-Using:
+### Using:
 1. Clone repo.
 2. Update your host /etc/hosts file with record ve-server1.com (this name is only for example, use your one)
 3. Run vagrant up
